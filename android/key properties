@@ -1,0 +1,4 @@
+storePassword=<wehninf8765dkjnms>
+keyPassword=<wehninf8765dkjnms>
+keyAlias=upload
+storeFile=<location of the key store file, such as /Users/<user name>/upload-keystore.jks>
