@@ -1,16 +1,26 @@
-# expense_tracker
+An Expense Tracker App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TECH STACK: 
+ • Flutter (cross platform app development platform)
+ • Dart Programming Language
+ • Swift Programming Language
+ 
+ REFERENCES AND PACKAGES:
+  • Implementation of Dart Date Picker: 'package:intl/intl.dart'; [intl: ^0.17.0] 
+  • Fonts: 
+    - family: OpenSans
+    - family: Quicksand
+ 
+REQUIREMENTS NEED TO RUN THE APP:
+ • Git 
+ • Flutter Setup
+ • Android Studio
+ • Android Emulator
+ 
+HOW TO RUN AND BUILD THE PROJECT ON LOCAL MACHINE:
+ • Download the zip file attched to the Github repository.
+ • Extract the file to unzip into a folder.
+ • Open the folder using VS code text editor or Android Studio.
+ • Run the code using emulator to see the working of Expense Tracker App.
+ 
+ 
